@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Pacifico:400,700&display=swap");
+
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+html,
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-size: 20px;
+  color: #a0aec0;
+  font-family: "Open Sans";
+  background-color: #1a202c;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+}
+
+blue {
+  color: #63b3ed;
+}
+
+green {
+  color: #68d391;
+}
+
+orange {
+  color: #f6ad55;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  background-color: #1a202c;
+  max-width: 100%;
+}
+
+/* 
+@media only screen and (min-width: 768px) {
+  html,
+  body {
+    font-size: 24px;
+  }
+  .hero {
+    padding: 2rem;
+    font-size: 24px;
+  }
+
+  #lottie,
+  #lottie-mob {
+    min-width: 16rem;
+  }
+
+
+  .hero-message {
+    padding: 0 2rem;
+    bottom: 2.7rem;
+    }
+
+  .hero-message-sub .join-in {
+    font-size: 0.83rem;
+  }
+
+  .hero-message-sub p {
+    font-size: 0.67rem;
+  }
+} */
+
+/* @media only screen and (min-width: 1024px) {
+  html,
+  body {
+    font-size: 28px;
+  }
+  .hero {
+    font-size: 28px;
+  }
+
+  #lottie,
+  #lottie-mob {
+    min-width: 18rem;
+  }
+
+  .hero-message-sub {
+    align-items: center;
+    justify-content: center;
+  }
+} */
+
+/* @media only screen and (max-height: 550px) {
+
+
+  .hero {
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+  }
+
+  .hero-message {
+    padding: 0;
+    margin-top: 2rem;
+    position: relative;
+  }
+}
+
+.hide {
+  display: none !important;
+}
+
+.show {
+  display: flex !important;
+} */
+
+/* @media only screen and (max-height: 650px) {
+  #lottie-mob {
+    height: 100%;
+  }
+} */
